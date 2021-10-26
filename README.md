@@ -58,3 +58,10 @@
 - `/block` - block people for using your bot
 - `/unblock` - unblock people you blocked for using your bot
 - `/blocklist` - show the list of all people who's blocked for using your bot
+
+
+## Heroku Deployment 💜
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KdIfamily/KDLMUSICPLAYER)
+
