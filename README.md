@@ -61,7 +61,7 @@
 
 
 ## Heroku Deployment 💜
-This  To deploy easily 
+Way To deploy easily 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KdIfamily/KDLMUSICPLAYER)
 
