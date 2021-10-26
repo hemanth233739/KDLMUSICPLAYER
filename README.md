@@ -69,7 +69,9 @@ Way To deploy easily
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Izazsarbudeen/Session-String-Generator#main.py) ``Pyrogram``or   <a href="http://t.me/st_session_gr_bot" alt="tgbots"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-sessionbot-blue" /> </a>
 
+How to create a mongodb url 
 
+    👇👇👇👇👇👇
 [Mongodp tutoril youtube](https://youtu.be/UYd18CVnRtA)
 
 
@@ -101,4 +103,8 @@ python3 main.py # Run the bot
 Credits goes To  💖:
 
 [🕊️⃝‌⭕️ 🇰𝖎𝖙𝖙𝖚🇹𝖙𝖍𝖊 🇲𝖊⭕️𝖜](https://t.me/Kittu_the_criminal)
+
+
+
+
 [⚠️💔🇱‌🇴‌🇳‌🇪‌🇱‌🇾‌🇰‌🇮‌🇳‌🇬‌💔⚠️](https://t.me/@Sarbudeen786)
