@@ -68,7 +68,7 @@ Way To deploy easily
 ### 🧪 Get `SESSION_NAME` from below:
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Izazsarbudeen/Session-String-Generator#main.py) ``Pyrogram``or 
-<a href="https://t.me/st_session_gr_bot" alt="sessionTelegram!"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+<a href="https://t.me/st_session_gr_bot" alt="Telegram!"> <img src="https://aleen42.github.io/badges/src/sessionbot.svg" /> </a>
 
 
 
