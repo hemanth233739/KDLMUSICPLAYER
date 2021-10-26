@@ -67,7 +67,7 @@ Way To deploy easily
 
 ### 🧪 Get `SESSION_NAME` from below:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Izazsarbudeen/Session-String-Generator#main.py) ``Pyrogram``or   <a href="http://t.me/st_session_gr_bot" alt=" Amelia "> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-sessionbot-blue" /> </a>
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Izazsarbudeen/Session-String-Generator#main.py) ``Pyrogram``or   <a href="http://t.me/st_session_gr_bot" alt="tgbots"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-sessionbot-blue" /> </a>
 
 
 [Mongodp tutoril youtube](https://youtu.be/UYd18CVnRtA)
