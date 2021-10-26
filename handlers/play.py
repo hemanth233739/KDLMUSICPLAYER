@@ -486,7 +486,7 @@ async def play(_, message: Message):
     global useer
     if message.chat.id in DISABLED_GROUPS:
         return
-    lel = await message.reply("🔎 **connecting to chucky server...**")
+    lel = await message.reply("🔎 **connecting...**")
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
     try:
@@ -592,7 +592,7 @@ async def play(_, message: Message):
         )
     elif urls:
         query = toxt
-        await lel.edit("🔎 **connection to chucky server**")
+        await lel.edit("🔎 **connection**")
         ydl_opts = {"format": "bestaudio[ext=m4a]"}
         try:
             results = YoutubeSearch(query, max_results=1).to_dict()
@@ -873,7 +873,7 @@ async def ytplay(_, message: Message):
     global que
     if message.chat.id in DISABLED_GROUPS:
         return
-    lel = await message.reply("🔎 **connection to chucky server**")
+    lel = await message.reply("🔎 **connection**")
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
 
