@@ -69,7 +69,13 @@ Way To deploy easily
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Izazsarbudeen/Session-String-Generator#main.py) ``Pyrogram``
 
+
+
+
 [Mongodp tutoril youtube](https://youtu.be/UYd18CVnRtA)
+
+
+
 [Mongodp tutoril playit](https://pdisklink.com/1/bnYybzNsMDAwMG1o?dn=1)
 
 
